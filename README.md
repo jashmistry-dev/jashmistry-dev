@@ -1,7 +1,7 @@
 <h1 align="center">Jash Mistry</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=24&duration=3200&pause=800&color=0A66C2&center=true&vCenter=true&width=750&lines=Full+Stack+Developer+(MERN+%7C+PERN);🎓+MCA+Student+@+LJ+University;🤝+Placement+Coordinator+@+IIPC;⚡+Backend+%26+Scalable+Apps+Focused;♟️+Chess+Tournament+Winner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=24&duration=3200&pause=800&color=0A66C2&center=true&vCenter=true&width=750&lines=Full+Stack+Developer+(MERN+%7C+PERN);🎓+MCA+Student+@+LJ+University;🤝+Placement+Coordinator+@+LJ+University;⚡+Backend+%26+Scalable+Apps+Focused;♟️+Check+and+MateChess+Tournament+Winner" />
 </p>
 
 ---
@@ -10,9 +10,9 @@
 
 - 🎓 MCA Student — **LJ University, Ahmedabad**
 - 💻 Full Stack Developer (**MERN & PERN**)
-- 🤝 Placement Coordinator @ **IIPC**
+- 🤝 Placement Coordinator @ **LJ University**
 - 🎯 Backend & Performance Focused
-- ♟️ Chess Tournament Winner
+- ♟️ Check & Mate Chess Tournament Winner
 
 ---
 
